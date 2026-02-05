@@ -28,10 +28,19 @@ Client
 
 ---
 
-## Sample Output
+## Screenshots
 
-![Rate Limiter Output](screenshots/Test result img.png),
+### Redis Server Running
+![Redis](screenshot/redis-server img.png)
 
+### Mock Python Server
+![Mock](screenshot/python mock server img.png)
+
+### Spring Boot Gateway
+![Spring Boot](screenshot/springboot ing.png)
+
+### Rate Limit Test Result
+![Result](screenshot/Test result img.png)
 
 
 ## How to Run
